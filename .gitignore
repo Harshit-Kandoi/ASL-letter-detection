@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.yolov-env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode (optional – only exclude if you don't want to share personal configs)
+.vscode/
+
+# Ultralytics user settings (not needed by others)
+Ultralytics/
+
+# Logs
+*.log
